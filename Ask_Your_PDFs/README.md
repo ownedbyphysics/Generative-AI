@@ -22,5 +22,6 @@ Make sure you have the following installed:
 
 
    Page screenshot, using one single shot and uploading my CV:
-![image](https://github.com/ownedbyphysics/Chat-With-Your-PDFs/assets/48797734/0f3c850a-6364-4bb1-8445-7a1f7bedea46)
+![image](https://github.com/user-attachments/assets/0b3390ba-f595-4383-8b96-4940c7c0dc91)
+
 
