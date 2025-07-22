@@ -1,0 +1,1 @@
+# 🤖🧠✨ AI implementations - apps
